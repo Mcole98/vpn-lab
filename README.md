@@ -35,7 +35,9 @@ This tutorial walks you through setting up a virtual machine in Microsoft Azure,
    - Click **Review + Create**, then **Create**.
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 4"/>
+   
+![VPN SS 1](https://github.com/user-attachments/assets/623313db-c13a-4362-bedf-4175c9677194)
+
 </p>
 
 4. **Log into the Virtual Machine**
@@ -47,7 +49,9 @@ This tutorial walks you through setting up a virtual machine in Microsoft Azure,
    - Once connected, open a web browser on the VM.
 
 <p>
-<img src="https://i.imgur.com/9Xw84vn.png" height="80%" width="80%" alt="Lab 4"/>
+   
+![vpn ss 2](https://github.com/user-attachments/assets/e92d2eff-5a0f-4fb1-9d8a-daa5338c1f87)
+
 </p>
 
 5. **Check the VM's Public IP Address**
@@ -75,7 +79,9 @@ This tutorial walks you through setting up a virtual machine in Microsoft Azure,
    - Connect to the VPN server.
 
 <p>
-<img src="https://i.imgur.com/1zGrnNV.png" height="80%" width="80%" alt="Lab 4"/>
+   
+![VPN SS 3](https://github.com/user-attachments/assets/522d4570-2aa5-4246-8512-09c237c4f46d)
+
 </p>
 
 5. **Check the VPN's Public IP Address**
@@ -91,11 +97,15 @@ This tutorial walks you through setting up a virtual machine in Microsoft Azure,
 - From this lab, here are my documented IP addresses & their changes:
 
 <p>
-<img src="https://i.imgur.com/WuUhDpF.png" height="80%" width="80%" alt="Lab 4"/>
+   
+![VPN SS 4](https://github.com/user-attachments/assets/fd70a33c-a6ce-41cd-ad57-fd6fde57716c)
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/cwnCfOU.png" height="80%" width="80%" alt="Lab 4"/>
+   
+![VPN SS 5](https://github.com/user-attachments/assets/8872a1a6-53c0-495f-8248-36f39d455f22)
+
 </p>
 
 ---
